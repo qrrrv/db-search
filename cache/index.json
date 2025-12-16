@@ -1,0 +1,739 @@
+{
+  "index": {
+    "bd\\first_part_001.csv": {
+      "hash": "11382381_1765787086.487756",
+      "lines": 246928,
+      "size": 11382381,
+      "name": "first_part_001.csv",
+      "delimiter": "|",
+      "fields": [
+        "name_en",
+        "phone",
+        "telegram_id",
+        "password"
+      ],
+      "indexed_at": "2025-12-15 12:36:40"
+    }
+  },
+  "field_stats": {
+    "name_en": 1,
+    "phone": 1,
+    "telegram_id": 1,
+    "password": 1
+  },
+  "updated": "2025-12-15 12:36:40",
+  "bd\\first_part_001.csv": {
+    "hash": "11382381_1765787086.487756",
+    "lines": 246928,
+    "size": 11382381,
+    "name": "first_part_001.csv",
+    "indexed_at": "2025-12-15 17:30:43"
+  },
+  "bd\\members_Prostranstvo_20251118_130117.csv": {
+    "hash": "7104_1765799958.0",
+    "lines": 95,
+    "size": 7104,
+    "name": "members_Prostranstvo_20251118_130117.csv",
+    "indexed_at": "2025-12-15 17:30:43"
+  },
+  "bd\\Tg1_part_001.csv": {
+    "hash": "10589255_1765799952.0",
+    "lines": 216168,
+    "size": 10589255,
+    "name": "Tg1_part_001.csv",
+    "indexed_at": "2025-12-15 17:30:44"
+  },
+  "bd\\Tg1_part_002.csv": {
+    "hash": "10589255_1765808953.0241818",
+    "lines": 295573,
+    "size": 10589255,
+    "name": "Tg1_part_002.csv",
+    "indexed_at": "2025-12-15 17:30:44"
+  },
+  "bd\\Tg1_part_003.csv": {
+    "hash": "10589255_1765809976.7608252",
+    "lines": 295987,
+    "size": 10589255,
+    "name": "Tg1_part_003.csv",
+    "indexed_at": "2025-12-15 17:49:56"
+  },
+  "bd\\Tg1_part_004.csv": {
+    "hash": "10589255_1765809976.4526494",
+    "lines": 295935,
+    "size": 10589255,
+    "name": "Tg1_part_004.csv",
+    "indexed_at": "2025-12-15 17:49:56"
+  },
+  "bd\\Tg1_part_005.csv": {
+    "hash": "10589255_1765809976.1522014",
+    "lines": 295703,
+    "size": 10589255,
+    "name": "Tg1_part_005.csv",
+    "indexed_at": "2025-12-15 17:49:56"
+  },
+  "bd\\Tg1_part_006.csv": {
+    "hash": "10589255_1765809975.84348",
+    "lines": 277425,
+    "size": 10589255,
+    "name": "Tg1_part_006.csv",
+    "indexed_at": "2025-12-15 17:49:56"
+  },
+  "bd\\Tg1_part_007.csv": {
+    "hash": "10589255_1765809975.5192552",
+    "lines": 262572,
+    "size": 10589255,
+    "name": "Tg1_part_007.csv",
+    "indexed_at": "2025-12-15 17:49:56"
+  },
+  "bd\\Tg1_part_008.csv": {
+    "hash": "10589255_1765809732.8753767",
+    "lines": 267042,
+    "size": 10589255,
+    "name": "Tg1_part_008.csv",
+    "indexed_at": "2025-12-15 17:49:56"
+  },
+  "bd\\Tg1_part_009.csv": {
+    "hash": "10589255_1765809974.8929286",
+    "lines": 256817,
+    "size": 10589255,
+    "name": "Tg1_part_009.csv",
+    "indexed_at": "2025-12-15 17:49:57"
+  },
+  "bd\\Tg1_part_010.csv": {
+    "hash": "10589255_1765809974.4890044",
+    "lines": 273951,
+    "size": 10589255,
+    "name": "Tg1_part_010.csv",
+    "indexed_at": "2025-12-15 17:49:57"
+  },
+  "bd\\Tg1_part_011.csv": {
+    "hash": "10589255_1765809974.1666763",
+    "lines": 263833,
+    "size": 10589255,
+    "name": "Tg1_part_011.csv",
+    "indexed_at": "2025-12-15 17:49:57"
+  },
+  "bd\\Tg1_part_012.csv": {
+    "hash": "10589255_1765809973.8245902",
+    "lines": 268593,
+    "size": 10589255,
+    "name": "Tg1_part_012.csv",
+    "indexed_at": "2025-12-15 17:49:57"
+  },
+  "bd\\Telegram_27_part_001.csv": {
+    "hash": "9969968_1765810703.4961534",
+    "lines": 216524,
+    "size": 9969968,
+    "name": "Telegram_27_part_001.csv",
+    "indexed_at": "2025-12-15 17:59:10"
+  },
+  "bd\\Telegram_27_part_002.csv": {
+    "hash": "9969968_1765810703.200941",
+    "lines": 213797,
+    "size": 9969968,
+    "name": "Telegram_27_part_002.csv",
+    "indexed_at": "2025-12-15 17:59:11"
+  },
+  "bd\\Telegram_27_part_003.csv": {
+    "hash": "9969968_1765810702.9017408",
+    "lines": 215762,
+    "size": 9969968,
+    "name": "Telegram_27_part_003.csv",
+    "indexed_at": "2025-12-15 17:59:11"
+  },
+  "bd\\Telegram_27_part_004.csv": {
+    "hash": "9969968_1765810702.5087905",
+    "lines": 215673,
+    "size": 9969968,
+    "name": "Telegram_27_part_004.csv",
+    "indexed_at": "2025-12-15 17:59:11"
+  },
+  "bd\\Telegram_27_part_005.csv": {
+    "hash": "9969968_1765810702.2205625",
+    "lines": 213240,
+    "size": 9969968,
+    "name": "Telegram_27_part_005.csv",
+    "indexed_at": "2025-12-15 17:59:11"
+  },
+  "bd\\Telegram_27_part_006.csv": {
+    "hash": "9969968_1765810701.8924377",
+    "lines": 211656,
+    "size": 9969968,
+    "name": "Telegram_27_part_006.csv",
+    "indexed_at": "2025-12-15 17:59:11"
+  },
+  "bd\\Telegram_27_part_007.csv": {
+    "hash": "9969968_1765810701.6012166",
+    "lines": 209998,
+    "size": 9969968,
+    "name": "Telegram_27_part_007.csv",
+    "indexed_at": "2025-12-15 17:59:11"
+  },
+  "bd\\Telegram_27_part_008.csv": {
+    "hash": "9969968_1765810701.2551422",
+    "lines": 211859,
+    "size": 9969968,
+    "name": "Telegram_27_part_008.csv",
+    "indexed_at": "2025-12-15 17:59:11"
+  },
+  "bd\\Telegram_27_part_009.csv": {
+    "hash": "9969968_1765810700.9340022",
+    "lines": 211668,
+    "size": 9969968,
+    "name": "Telegram_27_part_009.csv",
+    "indexed_at": "2025-12-15 17:59:11"
+  },
+  "bd\\Telegram_27_part_010.csv": {
+    "hash": "9969968_1765810700.6457698",
+    "lines": 210707,
+    "size": 9969968,
+    "name": "Telegram_27_part_010.csv",
+    "indexed_at": "2025-12-15 17:59:12"
+  },
+  "bd\\Telegram_27_part_011.csv": {
+    "hash": "9969968_1765810700.2857332",
+    "lines": 212681,
+    "size": 9969968,
+    "name": "Telegram_27_part_011.csv",
+    "indexed_at": "2025-12-15 17:59:12"
+  },
+  "bd\\Telegram_27_part_012.csv": {
+    "hash": "9969968_1765810699.9745677",
+    "lines": 200075,
+    "size": 9969968,
+    "name": "Telegram_27_part_012.csv",
+    "indexed_at": "2025-12-15 17:59:12"
+  },
+  "bd\\Telegram_27_part_013.csv": {
+    "hash": "9969968_1765810699.6653917",
+    "lines": 211093,
+    "size": 9969968,
+    "name": "Telegram_27_part_013.csv",
+    "indexed_at": "2025-12-15 17:59:12"
+  },
+  "bd\\Telegram_27_part_014.csv": {
+    "hash": "9969968_1765810699.2973757",
+    "lines": 210059,
+    "size": 9969968,
+    "name": "Telegram_27_part_014.csv",
+    "indexed_at": "2025-12-15 17:59:12"
+  },
+  "bd\\Telegram_27_part_015.csv": {
+    "hash": "9969968_1765810698.988204",
+    "lines": 210245,
+    "size": 9969968,
+    "name": "Telegram_27_part_015.csv",
+    "indexed_at": "2025-12-15 17:59:12"
+  },
+  "bd\\Telegram_27_part_016.csv": {
+    "hash": "9969968_1765810698.6630704",
+    "lines": 209064,
+    "size": 9969968,
+    "name": "Telegram_27_part_016.csv",
+    "indexed_at": "2025-12-15 17:59:12"
+  },
+  "bd\\Telegram_27_part_017.csv": {
+    "hash": "9969968_1765810698.3449223",
+    "lines": 208719,
+    "size": 9969968,
+    "name": "Telegram_27_part_017.csv",
+    "indexed_at": "2025-12-15 17:59:12"
+  },
+  "bd\\Telegram_27_part_018.csv": {
+    "hash": "9969968_1765810697.977903",
+    "lines": 210248,
+    "size": 9969968,
+    "name": "Telegram_27_part_018.csv",
+    "indexed_at": "2025-12-15 17:59:13"
+  },
+  "bd\\Telegram_27_part_019.csv": {
+    "hash": "9969968_1765810697.6408038",
+    "lines": 204341,
+    "size": 9969968,
+    "name": "Telegram_27_part_019.csv",
+    "indexed_at": "2025-12-15 17:59:13"
+  },
+  "bd\\Telegram_27_part_020.csv": {
+    "hash": "9969968_1765810697.3326268",
+    "lines": 209335,
+    "size": 9969968,
+    "name": "Telegram_27_part_020.csv",
+    "indexed_at": "2025-12-15 17:59:13"
+  },
+  "bd\\Telegram_27_part_021.csv": {
+    "hash": "9969968_1765810696.9606223",
+    "lines": 206993,
+    "size": 9969968,
+    "name": "Telegram_27_part_021.csv",
+    "indexed_at": "2025-12-15 17:59:13"
+  },
+  "bd\\Telegram_27_part_022.csv": {
+    "hash": "9969968_1765810696.6713953",
+    "lines": 211972,
+    "size": 9969968,
+    "name": "Telegram_27_part_022.csv",
+    "indexed_at": "2025-12-15 17:59:13"
+  },
+  "bd\\Telegram_27_part_023.csv": {
+    "hash": "9969968_1765810696.3642156",
+    "lines": 213937,
+    "size": 9969968,
+    "name": "Telegram_27_part_023.csv",
+    "indexed_at": "2025-12-15 17:59:13"
+  },
+  "bd\\Telegram_27_part_024.csv": {
+    "hash": "9969968_1765810696.0071723",
+    "lines": 213067,
+    "size": 9969968,
+    "name": "Telegram_27_part_024.csv",
+    "indexed_at": "2025-12-15 17:59:13"
+  },
+  "bd\\Telegram_27_part_025.csv": {
+    "hash": "9969968_1765810695.7119594",
+    "lines": 211752,
+    "size": 9969968,
+    "name": "Telegram_27_part_025.csv",
+    "indexed_at": "2025-12-15 17:59:14"
+  },
+  "bd\\Telegram_27_part_026.csv": {
+    "hash": "9969968_1765810695.3808446",
+    "lines": 210836,
+    "size": 9969968,
+    "name": "Telegram_27_part_026.csv",
+    "indexed_at": "2025-12-15 17:59:14"
+  },
+  "bd\\Telegram_27_part_027.csv": {
+    "hash": "9969968_1765810695.0856338",
+    "lines": 210750,
+    "size": 9969968,
+    "name": "Telegram_27_part_027.csv",
+    "indexed_at": "2025-12-15 17:59:14"
+  },
+  "bd\\Telegram_27_part_028.csv": {
+    "hash": "9969968_1765810694.7605052",
+    "lines": 210688,
+    "size": 9969968,
+    "name": "Telegram_27_part_028.csv",
+    "indexed_at": "2025-12-15 17:59:14"
+  },
+  "bd\\Telegram_27_part_029.csv": {
+    "hash": "9969968_1765810694.4064524",
+    "lines": 209563,
+    "size": 9969968,
+    "name": "Telegram_27_part_029.csv",
+    "indexed_at": "2025-12-15 17:59:14"
+  },
+  "bd\\Telegram_27_part_030.csv": {
+    "hash": "9969968_1765810694.1122391",
+    "lines": 210786,
+    "size": 9969968,
+    "name": "Telegram_27_part_030.csv",
+    "indexed_at": "2025-12-15 17:59:14"
+  },
+  "bd\\Telegram_27_part_031.csv": {
+    "hash": "9969968_1765810693.753196",
+    "lines": 208858,
+    "size": 9969968,
+    "name": "Telegram_27_part_031.csv",
+    "indexed_at": "2025-12-15 17:59:14"
+  },
+  "bd\\Telegram_27_part_032.csv": {
+    "hash": "9969968_1765810693.4380379",
+    "lines": 210461,
+    "size": 9969968,
+    "name": "Telegram_27_part_032.csv",
+    "indexed_at": "2025-12-15 17:59:14"
+  },
+  "bd\\Telegram_27_part_033.csv": {
+    "hash": "9969968_1765810693.0829873",
+    "lines": 211635,
+    "size": 9969968,
+    "name": "Telegram_27_part_033.csv",
+    "indexed_at": "2025-12-15 17:59:15"
+  },
+  "bd\\Telegram_27_part_034.csv": {
+    "hash": "9969968_1765810692.7311502",
+    "lines": 212027,
+    "size": 9969968,
+    "name": "Telegram_27_part_034.csv",
+    "indexed_at": "2025-12-15 17:59:15"
+  },
+  "bd\\Telegram_27_part_035.csv": {
+    "hash": "9969968_1765810692.435937",
+    "lines": 211196,
+    "size": 9969968,
+    "name": "Telegram_27_part_035.csv",
+    "indexed_at": "2025-12-15 17:59:15"
+  },
+  "bd\\vk _ 2023 5КК_part_001.txt": {
+    "hash": "10107953_1765811893.668581",
+    "lines": 157407,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_001.txt",
+    "indexed_at": "2025-12-15 18:21:35"
+  },
+  "bd\\vk _ 2023 5КК_part_002.txt": {
+    "hash": "10107953_1765811893.4500911",
+    "lines": 155487,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_002.txt",
+    "indexed_at": "2025-12-15 18:21:35"
+  },
+  "bd\\vk _ 2023 5КК_part_003.txt": {
+    "hash": "10107953_1765811893.2316751",
+    "lines": 157606,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_003.txt",
+    "indexed_at": "2025-12-15 18:21:35"
+  },
+  "bd\\vk _ 2023 5КК_part_004.txt": {
+    "hash": "10107953_1765811892.9833384",
+    "lines": 158032,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_004.txt",
+    "indexed_at": "2025-12-15 18:21:35"
+  },
+  "bd\\vk _ 2023 5КК_part_005.txt": {
+    "hash": "10107953_1765811892.6462398",
+    "lines": 156982,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_005.txt",
+    "indexed_at": "2025-12-15 18:21:35"
+  },
+  "bd\\vk _ 2023 5КК_part_006.txt": {
+    "hash": "10107953_1765811892.0987024",
+    "lines": 156799,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_006.txt",
+    "indexed_at": "2025-12-15 18:21:35"
+  },
+  "bd\\vk _ 2023 5КК_part_007.txt": {
+    "hash": "10107953_1765811891.8164575",
+    "lines": 154172,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_007.txt",
+    "indexed_at": "2025-12-15 18:21:35"
+  },
+  "bd\\vk _ 2023 5КК_part_008.txt": {
+    "hash": "10107953_1765811891.5880685",
+    "lines": 153243,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_008.txt",
+    "indexed_at": "2025-12-15 18:21:36"
+  },
+  "bd\\vk _ 2023 5КК_part_009.txt": {
+    "hash": "10107953_1765811891.0943882",
+    "lines": 153848,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_009.txt",
+    "indexed_at": "2025-12-15 18:21:36"
+  },
+  "bd\\vk _ 2023 5КК_part_010.txt": {
+    "hash": "10107953_1765811890.2416675",
+    "lines": 154547,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_010.txt",
+    "indexed_at": "2025-12-15 18:21:36"
+  },
+  "bd\\vk _ 2023 5КК_part_011.txt": {
+    "hash": "10107953_1765811890.0202599",
+    "lines": 154614,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_011.txt",
+    "indexed_at": "2025-12-15 18:21:36"
+  },
+  "bd\\vk _ 2023 5КК_part_012.txt": {
+    "hash": "10107953_1765811889.6402743",
+    "lines": 154399,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_012.txt",
+    "indexed_at": "2025-12-15 18:21:36"
+  },
+  "bd\\vk _ 2023 5КК_part_013.txt": {
+    "hash": "10107953_1765811888.293875",
+    "lines": 155096,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_013.txt",
+    "indexed_at": "2025-12-15 18:21:36"
+  },
+  "bd\\vk _ 2023 5КК_part_014.txt": {
+    "hash": "10107953_1765811887.4391613",
+    "lines": 156137,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_014.txt",
+    "indexed_at": "2025-12-15 18:21:36"
+  },
+  "bd\\vk _ 2023 5КК_part_015.txt": {
+    "hash": "10107953_1765811887.216755",
+    "lines": 155608,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_015.txt",
+    "indexed_at": "2025-12-15 18:21:37"
+  },
+  "bd\\vk _ 2023 5КК_part_016.txt": {
+    "hash": "10107953_1765811887.0083125",
+    "lines": 155499,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_016.txt",
+    "indexed_at": "2025-12-15 18:21:37"
+  },
+  "bd\\vk _ 2023 5КК_part_017.txt": {
+    "hash": "10107953_1765811886.766957",
+    "lines": 155931,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_017.txt",
+    "indexed_at": "2025-12-15 18:21:37"
+  },
+  "bd\\vk _ 2023 5КК_part_018.txt": {
+    "hash": "10107953_1765811886.5435543",
+    "lines": 156581,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_018.txt",
+    "indexed_at": "2025-12-15 18:21:37"
+  },
+  "bd\\vk _ 2023 5КК_part_019.txt": {
+    "hash": "10107953_1765811886.3161616",
+    "lines": 156173,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_019.txt",
+    "indexed_at": "2025-12-15 18:21:37"
+  },
+  "bd\\vk _ 2023 5КК_part_020.txt": {
+    "hash": "10107953_1765811886.1017368",
+    "lines": 155878,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_020.txt",
+    "indexed_at": "2025-12-15 18:21:37"
+  },
+  "bd\\vk _ 2023 5КК_part_021.txt": {
+    "hash": "10107953_1765811885.8917181",
+    "lines": 156095,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_021.txt",
+    "indexed_at": "2025-12-15 18:21:37"
+  },
+  "bd\\vk _ 2023 5КК_part_022.txt": {
+    "hash": "10107953_1765811885.6493669",
+    "lines": 156315,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_022.txt",
+    "indexed_at": "2025-12-15 18:21:38"
+  },
+  "bd\\vk _ 2023 5КК_part_023.txt": {
+    "hash": "10107953_1765811885.4289553",
+    "lines": 155793,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_023.txt",
+    "indexed_at": "2025-12-15 18:21:38"
+  },
+  "bd\\vk _ 2023 5КК_part_024.txt": {
+    "hash": "10107953_1765811885.1696486",
+    "lines": 155516,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_024.txt",
+    "indexed_at": "2025-12-15 18:21:38"
+  },
+  "bd\\vk _ 2023 5КК_part_025.txt": {
+    "hash": "10107953_1765811884.9512327",
+    "lines": 155878,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_025.txt",
+    "indexed_at": "2025-12-15 18:21:38"
+  },
+  "bd\\vk _ 2023 5КК_part_026.txt": {
+    "hash": "10107953_1765811884.7407954",
+    "lines": 155947,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_026.txt",
+    "indexed_at": "2025-12-15 18:21:38"
+  },
+  "bd\\vk _ 2023 5КК_part_027.txt": {
+    "hash": "10107953_1765811884.5104115",
+    "lines": 155684,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_027.txt",
+    "indexed_at": "2025-12-15 18:21:38"
+  },
+  "bd\\vk _ 2023 5КК_part_028.txt": {
+    "hash": "10107953_1765811884.2890034",
+    "lines": 155751,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_028.txt",
+    "indexed_at": "2025-12-15 18:21:38"
+  },
+  "bd\\vk _ 2023 5КК_part_029.txt": {
+    "hash": "10107953_1765811884.0586185",
+    "lines": 155871,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_029.txt",
+    "indexed_at": "2025-12-15 18:21:39"
+  },
+  "bd\\vk _ 2023 5КК_part_030.txt": {
+    "hash": "10107953_1765811883.835216",
+    "lines": 155880,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_030.txt",
+    "indexed_at": "2025-12-15 18:21:39"
+  },
+  "bd\\vk _ 2023 5КК_part_031.txt": {
+    "hash": "10107953_1765811883.6018405",
+    "lines": 156397,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_031.txt",
+    "indexed_at": "2025-12-15 18:21:39"
+  },
+  "bd\\vk _ 2023 5КК_part_032.txt": {
+    "hash": "10107953_1765811883.3784378",
+    "lines": 156249,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_032.txt",
+    "indexed_at": "2025-12-15 18:21:39"
+  },
+  "bd\\vk _ 2023 5КК_part_033.txt": {
+    "hash": "10107953_1765811883.1390483",
+    "lines": 157039,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_033.txt",
+    "indexed_at": "2025-12-15 18:21:39"
+  },
+  "bd\\vk _ 2023 5КК_part_034.txt": {
+    "hash": "10107953_1765811882.880739",
+    "lines": 156347,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_034.txt",
+    "indexed_at": "2025-12-15 18:21:39"
+  },
+  "bd\\vk _ 2023 5КК_part_035.txt": {
+    "hash": "10107953_1765811882.6633215",
+    "lines": 156806,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_035.txt",
+    "indexed_at": "2025-12-15 18:21:39"
+  },
+  "bd\\vk _ 2023 5КК_part_036.txt": {
+    "hash": "10107953_1765811882.3900504",
+    "lines": 156095,
+    "size": 10107953,
+    "name": "vk _ 2023 5КК_part_036.txt",
+    "indexed_at": "2025-12-15 18:21:40"
+  },
+  "bd\\vk _ 2023 5КК_part_037.txt": {
+    "hash": "10107981_1765811882.1779692",
+    "lines": 156372,
+    "size": 10107981,
+    "name": "vk _ 2023 5КК_part_037.txt",
+    "indexed_at": "2025-12-15 18:21:40"
+  },
+  "bd\\rabota_v_sochi_2013_part_001.csv": {
+    "hash": "8865552_1765813312.5308297",
+    "lines": 3234,
+    "size": 8865552,
+    "name": "rabota_v_sochi_2013_part_001.csv",
+    "indexed_at": "2025-12-15 18:42:24"
+  },
+  "bd\\part4_part_001.csv": {
+    "hash": "10501959_1765813612.9630535",
+    "lines": 17069,
+    "size": 10501959,
+    "name": "part4_part_001.csv",
+    "indexed_at": "2025-12-15 18:47:38"
+  },
+  "bd\\part4_part_002.csv": {
+    "hash": "10501959_1765813612.7775495",
+    "lines": 17368,
+    "size": 10501959,
+    "name": "part4_part_002.csv",
+    "indexed_at": "2025-12-15 18:47:38"
+  },
+  "bd\\part4_part_003.csv": {
+    "hash": "10501959_1765813612.6119914",
+    "lines": 17026,
+    "size": 10501959,
+    "name": "part4_part_003.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_004.csv": {
+    "hash": "10501959_1765813612.4374583",
+    "lines": 17118,
+    "size": 10501959,
+    "name": "part4_part_004.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_005.csv": {
+    "hash": "10501959_1765813612.2778854",
+    "lines": 17077,
+    "size": 10501959,
+    "name": "part4_part_005.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_006.csv": {
+    "hash": "10501959_1765813612.1083436",
+    "lines": 17097,
+    "size": 10501959,
+    "name": "part4_part_006.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_007.csv": {
+    "hash": "10501959_1765813611.9268227",
+    "lines": 16854,
+    "size": 10501959,
+    "name": "part4_part_007.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_008.csv": {
+    "hash": "10501959_1765813611.7443113",
+    "lines": 17145,
+    "size": 10501959,
+    "name": "part4_part_008.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_009.csv": {
+    "hash": "10501959_1765813611.5548184",
+    "lines": 17042,
+    "size": 10501959,
+    "name": "part4_part_009.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_010.csv": {
+    "hash": "10501959_1765813611.3493676",
+    "lines": 16964,
+    "size": 10501959,
+    "name": "part4_part_010.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_011.csv": {
+    "hash": "10501959_1765813611.1698458",
+    "lines": 17046,
+    "size": 10501959,
+    "name": "part4_part_011.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\part4_part_012.csv": {
+    "hash": "10501959_1765813610.7459793",
+    "lines": 17065,
+    "size": 10501959,
+    "name": "part4_part_012.csv",
+    "indexed_at": "2025-12-15 18:47:39"
+  },
+  "bd\\clients_adengi.csv": {
+    "hash": "10718486_1765865122.990108",
+    "lines": 39292,
+    "size": 10718486,
+    "name": "clients_adengi.csv",
+    "indexed_at": "2025-12-16 09:05:51"
+  },
+  "bd\\data16_part_007.txt": {
+    "hash": "10218125_1765865841.2650824",
+    "lines": 87511,
+    "size": 10218125,
+    "name": "data16_part_007.txt",
+    "indexed_at": "2025-12-16 09:18:13"
+  },
+  "bd\\part5_part_002.csv": {
+    "hash": "10523589_1765866388.9882498",
+    "lines": 17096,
+    "size": 10523589,
+    "name": "part5_part_002.csv",
+    "indexed_at": "2025-12-16 09:26:37"
+  }
+}

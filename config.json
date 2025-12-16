@@ -1,0 +1,28 @@
+{
+    "database_path": "bd",
+    "results_path": "results",
+    "cache_path": "cache",
+    "logs_path": "logs",
+    "file_extensions": [
+        ".txt",
+        ".csv"
+    ],
+    "encoding_priority": [
+        "utf-8",
+        "cp1251",
+        "latin-1",
+        "cp866"
+    ],
+    "max_workers": null,
+    "use_mmap_threshold": 104857600,
+    "chunk_size": 1048576,
+    "max_results_per_file": 1000,
+    "max_total_results": 10000,
+    "cache_enabled": true,
+    "cache_ttl": 3600,
+    "theme": "galaxy",
+    "show_progress": true,
+    "color_output": true,
+    "export_format": "txt",
+    "log_level": "INFO"
+}
